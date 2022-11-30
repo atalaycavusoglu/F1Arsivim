@@ -31,13 +31,13 @@ class efsaneViewController : UIViewController, UITableViewDelegate, UITableViewD
         
         let fangio = Efsane(efsaneAd: "Juan Manuel Fangio", efsaneSontakim: "Maserati", efsaneUlke: "Arjantin", efsaneKazandigi: "24", efsaneSon: "Fransa GP", efsaneImage: UIImage(named: "fangio")!)
         
-        let senna = Efsane(efsaneAd: "Ayrton Senna", efsaneSontakim: "Rothmans Williams Renault", efsaneUlke: "Brezilya", efsaneKazandigi: "41", efsaneSon: "San Marino GP", efsaneImage: UIImage(named: "senna")!)
+        let senna = Efsane(efsaneAd: "Ayrton Senna", efsaneSontakim: "Williams Renault", efsaneUlke: "Brezilya", efsaneKazandigi: "41", efsaneSon: "San Marino GP", efsaneImage: UIImage(named: "senna")!)
         
         let schumi = Efsane(efsaneAd: "Michael Schumacher", efsaneSontakim: "Mercedes", efsaneUlke: "Almanya", efsaneKazandigi: "91", efsaneSon: "Brezilya GP", efsaneImage: UIImage(named: "legendschumi")!)
         
         let prost = Efsane(efsaneAd: "Alain Prost", efsaneSontakim: "Williams", efsaneUlke: "Fransa", efsaneKazandigi: "51", efsaneSon: "Australian GP", efsaneImage: UIImage(named: "prost")!)
         
-        let stewart = Efsane(efsaneAd: "Jackie Stewart", efsaneSontakim: "", efsaneUlke: "İskoçya", efsaneKazandigi: "27", efsaneSon: "Lotus Ford", efsaneImage: UIImage(named: "stewart")!)
+        let stewart = Efsane(efsaneAd: "Jackie Stewart", efsaneSontakim: "Elf Team Tyrrell", efsaneUlke: "İskoçya", efsaneKazandigi: "27", efsaneSon: "Lotus Ford", efsaneImage: UIImage(named: "stewart")!)
         
         let hakkinen = Efsane(efsaneAd: "Mika Häkkinen", efsaneSontakim: "McLaren", efsaneUlke: "Finlandiya", efsaneKazandigi: "20", efsaneSon: "Japonya GP", efsaneImage: UIImage(named: "hakkinen")!)
         
